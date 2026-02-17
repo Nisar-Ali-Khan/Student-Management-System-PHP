@@ -53,3 +53,6 @@ Features:
 
 Screenshots
 <img width="1351" height="683" alt="image" src="https://github.com/user-attachments/assets/87fa7c03-1743-43bd-88ba-113fafdd9f6c" />
+<img width="591" height="656" alt="image" src="https://github.com/user-attachments/assets/260f3e08-93b1-458a-9c5d-4f8bb2f49638" />
+<img width="1360" height="475" alt="image" src="https://github.com/user-attachments/assets/fe0bf7e6-a982-4428-bb26-9a82e6dd4796" />
+
