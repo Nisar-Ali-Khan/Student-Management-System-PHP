@@ -51,5 +51,5 @@ Features:
 
 ---
 
-## 📸 Screenshots
-*(Yahan aap apne project ke screenshots laga sakte hain)*
+Screenshots
+<img width="1351" height="683" alt="image" src="https://github.com/user-attachments/assets/87fa7c03-1743-43bd-88ba-113fafdd9f6c" />
